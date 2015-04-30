@@ -1,6 +1,6 @@
 <?php
 
-require( get_template_directory() . '/post-types/books.php' );
+require( get_stylesheet_directory() . '/post-types/books.php' );
 
 
 add_action( 'wp_enqueue_scripts', 'twentytwelve_parent_theme_enqueue_styles' );
