@@ -25,7 +25,7 @@ function books_init() {
 		'has_archive'       => true,
 		'rewrite'           => true,
 		'query_var'         => true,
-		'menu_icon'         => 'dashicons-dashicons-book-alt',
+		'menu_icon'         => 'dashicons-book-alt',
 	) );
 
 }
